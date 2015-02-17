@@ -1,0 +1,11 @@
+package gizmadicks.lib;
+
+
+import net.minecraft.util.ResourceLocation;
+
+public class Textures{
+
+    public static final String ICON_LOCATION = "gizmadicks:";
+
+    public static final String ITEM_GIZPAD = ICON_LOCATION + "gizpad";
+}
